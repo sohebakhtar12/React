@@ -4,11 +4,11 @@ function App() {
   
 
   return (
-    <>
-    <p1>Hii Soheb </p1>
+   <>
     <Chai/>
-    <h3>come fast</h3>
-    </> 
+    <p1>Hii Soheb </p1>
+    <h3>come fast</h3> 
+    </>
   )
 }
 
