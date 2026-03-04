@@ -24,6 +24,7 @@ function App() {
       <h1>--------------------Topic-4 Using props-------------------------------</h1>
       
       <Student name="Soheb Akhtar" age={23} isStudent={true} />
+
       {/* <Student name="Sarifh Nawaz" age={25} isStudent={false} />
       <Student name="Sawanaz Rani" age={27} isStudent={false} />
       <Student name="Johar Ali" age="34" isStudent={false} /> */}
